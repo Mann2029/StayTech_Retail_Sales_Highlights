@@ -97,5 +97,5 @@ Provide options for exporting visualizations.
 Allow user-defined thresholds for data size or filtering criteria.
 
 ## Author
-Developed for retail data highlights to uncover sales trends and improve decision-making processes.
-
+Developed by Team StayTech.
+Thank You.
