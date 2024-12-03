@@ -2,6 +2,13 @@
 
 StayTech_Retail_Sales_Highlights
 
+# Team Members
+1. Mann Chavda(Ku2407u327)
+2. Akshat Bansal (Ku2407u251)
+3. Meet Dave (Ku2407u331)
+4. Heman Darji (ku2407u798)
+5. Meet Vastani (ku2407u451)
+
  # Overwiew
  
 This script is a Python-based retail data analysis tool that processes a CSV file containing sales and revenue data. It extracts meaningful insights like seasonal sales patterns, top-performing products, and revenue trends over time using data visualization.
