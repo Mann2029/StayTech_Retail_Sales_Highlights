@@ -71,21 +71,21 @@ Python 3.x
 ## Data Preprocessing
 -  Ensures the date column is in datetime format.
 -  Extracts useful time-based features:
-  - Month
-  - Year
-  - Day of the week
-  - Limits the dataset to the first 1,000 rows if it exceeds this size.
+    1.  Month
+    2. Year
+    3. Day of the week
+    4. Limits the dataset to the first 1,000 rows if it exceeds this size.
 
 ## Visualizations
 
-Seasonal Sales Patterns:
-Heatmap of monthly sales patterns across years.
-Top 10 Products:
-Bar charts showing the top 10 products by:
-Total sales
-Total revenue
-Revenue Trends:
-Line plot showing revenue trends over time, grouped by year and month.
+1. Seasonal Sales Patterns:
+ - Heatmap of monthly sales patterns across years.
+2. Top 10 Products:
+ - Bar charts showing the top 10 products by:
+    1. Total sales
+    2 .Total revenue
+3. Revenue Trends:
+    - Line plot showing revenue trends over time, grouped by year and month.
 
 ## Output Examples
 1. Seasonal Sales Patterns: Heatmap showing sales variations by month and year.
