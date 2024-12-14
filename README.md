@@ -62,10 +62,10 @@ Python 3.x
 
 ## CSV File Requirements
 - The script expects a CSV file with the following columns:
-- date: Date of the transaction (in a recognizable date format).
-- sales: Total sales for the transaction.
-- revenue: Total revenue for the transaction.
-- product_name: Name of the product.
+     1. Date: Date of the transaction (in a recognizable date format).
+     2. sales: Total sales for the transaction.
+     3. revenue: Total revenue for the transaction.
+     4. product_name: Name of the product.
 - If the file is missing required columns, the script will terminate with an error.
 
 ## Data Preprocessing
