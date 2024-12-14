@@ -1,4 +1,4 @@
-# project name
+# Project Name
 
 StayTech_Retail_Sales_Highlights
 
