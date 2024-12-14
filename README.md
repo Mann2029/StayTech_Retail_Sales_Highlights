@@ -69,12 +69,12 @@ Python 3.x
 - If the file is missing required columns, the script will terminate with an error.
 
 ## Data Preprocessing
-1. Ensures the date column is in datetime format.
-2. Extracts useful time-based features:
- - Month
- - Year
-- Day of the week
-- Limits the dataset to the first 1,000 rows if it exceeds this size.
+-  Ensures the date column is in datetime format.
+-  Extracts useful time-based features:
+  - Month
+  - Year
+  - Day of the week
+  - Limits the dataset to the first 1,000 rows if it exceeds this size.
 
 ## Visualizations
 
