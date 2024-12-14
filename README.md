@@ -3,13 +3,13 @@
 StayTech_Retail_Sales_Highlights
 
 # Team Members
-1. Mann Chavda(Ku2407u327)
+1. Mann Chavda (Ku2407u327)
 2. Akshat Bansal (Ku2407u251)
 3. Meet Dave (Ku2407u331)
-4. Heman Darji (ku2407u798)
-5. Meet Vastani (ku2407u451)
+4. Heman Darji (Ku2407u779)
+5. Meet Vastani (Ku2407u451)
 
- # Overwiew
+ # Overview
  
 This script is a Python-based retail data analysis tool that processes a CSV file containing sales and revenue data. It extracts meaningful insights like seasonal sales patterns, top-performing products, and revenue trends over time using data visualization.
 
@@ -33,6 +33,8 @@ Author
 
 ## Requirements
 Python 3.x
+
+
 ### Required Python libraries:
 pandas
 matplotlib
@@ -43,9 +45,12 @@ os
 
 ## Features
 Seasonal Sales Patterns:
+
 Visualizes monthly sales data across multiple years using a heatmap.
 Top Products Analysis:
+
 Identifies and visualizes the top 10 products by sales and revenue.
+
 Revenue Trends:
 Plots revenue trends over time to observe seasonal changes and patterns.
 
@@ -60,7 +65,6 @@ Perform data analysis and visualization.
 
 ## CSV File Requirements
 The script expects a CSV file with the following columns:
-
 date: Date of the transaction (in a recognizable date format).
 sales: Total sales for the transaction.
 revenue: Total revenue for the transaction.
